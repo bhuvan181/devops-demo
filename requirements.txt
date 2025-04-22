@@ -1,0 +1,12 @@
+flask
+pandas
+scikit-learn
+matplotlib
+tensorflow
+keras
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Login
+Werkzeug
+streamlit
+bcrypt
